@@ -1,0 +1,18 @@
+{
+      "compilerOptions": {
+        "module": "es2015",
+        "removeComments": true,
+        "lib": [
+          "es2015",
+          "dom"
+        ],
+        "preserveConstEnums": true,
+        "sourceMap": true
+      },
+      "include": [
+        "src/**/*"
+      ],
+      "exclude": [
+        "node_modules"
+      ]
+}
